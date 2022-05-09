@@ -10,3 +10,4 @@
 *  Learn more: visit http://HaominChenn.github.io  
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaominChenn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 ![HaominChen's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaominChenn&show_icons=true)
+<!--![Metrics](https://metrics.lecoq.io/haominchenn?template=classic&config.timezone=America%2FToronto)-->
