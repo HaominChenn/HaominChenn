@@ -3,7 +3,7 @@
 - ***I put most of my forcus on web development with JavaScript and ReactJs.*** :writing_hand:
 - ***I love sharing Front-End tech stack....***:computer:
 - ***How to reach me:***
-[![alt text](https://img.shields.io/badge/@HaominChen-0077B5?style=flat-square&logo=linkedin&logoColor=white "title")](www.linkedin.com/in/haominchen)
+[![](https://img.shields.io/badge/@HaominChen-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/haominchen)
 
 - chehaomi@sheridancollege.ca    
 - ***Fun fact: Still trying to get used to Canadian Winter*** :snowflake:   
