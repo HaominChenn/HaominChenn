@@ -2,10 +2,7 @@
 - ***I :hearts: Front-End Development :exclamation: :exclamation: :exclamation:***
 - ***I put most of my forcus on web development with JavaScript and ReactJs.*** :writing_hand:
 - ***I love sharing Front-End tech stack....***:computer:
-- ***How to reach me:*** [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haominchen/)
-
-https://www.linkedin.com/in/haominchen/
-- chehaomi@sheridancollege.ca    
+- ***How to reach me:*** [![https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white]()](chehaomi@sheridancollege.ca )  [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haominchen/) [![](https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white)](https://github.com/HaominChenn)  [![](https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/haomin02145132)   
 - ***Fun fact: Still trying to get used to Canadian Winter*** :snowflake:   
 
 ## :fire: Project
